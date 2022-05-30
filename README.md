@@ -1,14 +1,7 @@
-xkcd-substitutions
-==================
+# thai-number-substitutor
 
-xkcd substitutions chrome extension
+ปลั๊กอิน Chrome นี้จะเปลี่ยนเลขทั้งหมดที่เบราเซอร์แสดงผล (ไม่นับส่วนของเมนู) ให้เป็นเลขไทย
 
-All credit to XKCD.  
-https://xkcd.com/1288/
-https://xkcd.com/1625/
+## เครดิต
 
-some other xkcd jokes have made it into the newest version.
-https://xkcd.com/1004/
-https://xkcd.com/1418/
-https://xkcd.com/1031/
-https://xkcd.com/1625/
+ดัดแปลงจากปลั๊กอิน [Posnet/xkcd-substitutions](https://github.com/Posnet/xkcd-substitutions) แบบหน้าไม่อาย
